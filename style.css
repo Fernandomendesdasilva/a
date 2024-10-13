@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: red; /* Fundo vermelho */
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+
+img {
+    max-width: 100%; /* Ajusta a largura da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+}
